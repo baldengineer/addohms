@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Pyramiduino-rescue)(type Legacy)(uri ${KIPRJMOD}/Pyramiduino-rescue.lib)(options "")(descr ""))
+)
